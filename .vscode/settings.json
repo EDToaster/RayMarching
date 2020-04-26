@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "freeglut.h": "c",
+    "iosfwd": "cpp",
+    "ostream": "cpp"
+  }
+}
